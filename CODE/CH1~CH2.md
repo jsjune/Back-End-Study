@@ -10,14 +10,14 @@
 ## 부울대수
 - 논리회로 계산에 꼭 필요한 계산식
 
-<img src="../../../화면캡쳐/Image 134.png" width="60%" height="60%">
+<img src="https://user-images.githubusercontent.com/94538575/159099834-937622cf-505b-4ba9-870a-b8bb617f7726.png" width="60%" height="60%">
 
 <br><br><br>
 
 ## 드모르간의 법칙
 - 논리식을 간략하게 하기 위함
 
-<img src="../../../화면캡쳐/Image 133.png" width="60%" height="60%">
+<img src="https://user-images.githubusercontent.com/94538575/159099799-10ff9a70-5c84-4162-acf8-fcc110f06c05.png" width="60%" height="60%">
 
 <br><br><br>
 
